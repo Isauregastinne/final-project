@@ -13,8 +13,8 @@
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
-				<p><img src="../images/earlylife-template-young-coco.jpg" width="200" height="300" alt="young-coco" /></p>
-			</th>
+				<p><img src="../images/early-life-template-young-coco.JPG" width="215" height="320" alt="early-life" /></p>
+				</th>
 			<th scope="col"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></th>
 		</tr>
 		<tr>
@@ -23,6 +23,11 @@
 				<p>&nbsp;</p>
 				<p><img src="../images/earlylife-template-abbaye-aubazine.jpg" width="500" height="250" alt="abbaye-aubazine" /></p>
 			</th>
+		</tr>
+	</table>
+	<table width="950" id="                                                       ">
+		<tr>
+			<th width="150" height="60" scope="col"><img src="../images/bobines.jpg" width="950" height="150" alt="bobines" />                                                                                                                                         </th>
 		</tr>
 	</table>
 </body>
