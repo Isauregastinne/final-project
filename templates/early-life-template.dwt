@@ -15,11 +15,14 @@
 				<p>&nbsp;</p>
 				<p><img src="../images/earlylife-template-young-coco.jpg" width="200" height="300" alt="young-coco" /></p>
 			</th>
-			<th scope="col"><img src="../images/earlylife-template-abbaye-aubazine.jpg" width="500" height="250" alt="abbaye-aubazine" /></th>
+			<th scope="col"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></th>
 		</tr>
 		<tr>
 			<th width="410" scope="col"><!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2<!-- TemplateEndEditable --></th>
-			<th width="528" scope="col"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></th>
+			<th width="528" scope="col">
+				<p>&nbsp;</p>
+				<p><img src="../images/earlylife-template-abbaye-aubazine.jpg" width="500" height="250" alt="abbaye-aubazine" /></p>
+			</th>
 		</tr>
 	</table>
 </body>
