@@ -7,21 +7,22 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 	<table width="950">
 		<tr>
-			<th colspan="2" scope="col"><img src="../images/homepage-header-girls-sawing.jpg" width="950" height="250" alt="homepage-header-girls-sawing" /></th>
+			<th scope="col"><img src="../images/homepage-header-girls-sawing.jpg" width="950" height="250" alt="homepage-header-girls-sawing" /></th>
 		</tr>
 		<tr>
-			<td>
-				<h1><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></h1>
-</td>
+			<td><!-- TemplateBeginEditable name="EditRegion5" -->EditRegion5<!-- TemplateEndEditable --></td>
+		</tr>
+		<tr>
 			<td><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="homepage-footer-chanel-stores" /></td>
+			<td><img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="homepage-footer-chanel-stores" /></td>
 		</tr>
 	</table>
 </body>
