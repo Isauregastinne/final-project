@@ -13,17 +13,37 @@ body {
 	margin: 0px;
 	padding: 0px;
 }
-.navigation li a {
-	color: #000000;
+.navigation li  {
+	color: #FFFFFF;
 	text-decoration: none;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	background-color: #FFFFFF;
+	background-color: #000000;
 	display: inline;
-	padding-top: 10px;
+	padding-top: 0px;
 	padding-bottom: 10px;
 	text-align: center;
 	border: 5px 5 #FFFF00;
-	margin: 10px;
+	margin: 0px;
+	padding-right: 30px;
+	padding-left: 30px;
 }
+.navigation {
+	margin: 2px;
+	padding: 2px;
+}
+
 .navigation li a: hover {
+}
+.navigation li a {
+	background-color: #FFF;
+	padding-top: 1px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+	position: absolute;
+	overflow: visible;
+	visibility: visible;
+	height: auto;
+	width: auto;
+	margin: -5px;
 }
