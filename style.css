@@ -30,7 +30,7 @@
 .main {
 	background-color: #DA9100;
 	border-radius: 15px;
-	color: #383838;
+	color: #282828;
 	padding-top: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
@@ -71,7 +71,7 @@
 	padding-right: 10px;
 	padding-bottom: 10px;
 	padding-left: 80px;
-	color: #FFF;
+	color: #DA9100;
 }
 .navigation li a:hover {
 	border: 2px solid #000000;
@@ -84,4 +84,8 @@
 	color: #AA7700;
 	text-decoration: none;
 	margin-left: 20px;
+}
+.imagestyle {
+	margin-left: 140px;
+	border: 2px solid #000;
 }
