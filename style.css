@@ -34,17 +34,19 @@
 	margin-right: 0px;
 	margin-bottom: 20px;
 	margin-left: 10px;
+	font-weight: bold;
 }
 .navigation li a {
-	border: 2px solid #222940;
-	background-color: #F2F2F2;
+	border: 2px solid #DDBB22;
+	background-color: #000000;
 	padding-top: 10px;
 	padding-right: 30px;
 	padding-bottom: 10px;
 	padding-left: 30px;
 	margin-right: 40px;
-	color: #222940;
+	color: #DDBB22;
 	text-decoration: none;
+	margin-left: 10px;
 
 }
 
