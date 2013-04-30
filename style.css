@@ -1,3 +1,12 @@
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(images/backround1.jpg);
+}
+	
+
 .wrapper {
 	background-color: #000000;
 	width: 950px;
@@ -18,14 +27,13 @@
 	margin-right: auto;
 	margin-left: auto;
 }
-.body {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	background-image: url(images/homepage-header-girls-sawing.jpg);
-	margin: 0px;
-	padding: 0px;
-	background-color: #DDBB22;
+.main {
+	background-color: #F2C84B;
+	padding: 20px;
+	border-radius: 15px;
 }
+
+
 .navigation {
 	color: #DDBB22;
 	padding: 0px;

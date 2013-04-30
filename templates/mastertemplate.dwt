@@ -24,8 +24,19 @@
 				<li><a href="../a-few-samples.html">A Few Famous Samples</a></li>
 				<p>&nbsp;</p>
 	</ul>
-	<img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="footer" />	
+	
+	<div class="main">
+					<!-- TemplateBeginEditable name="Content" -->
+					<p>This is placeholder content. </p>
+					<!-- TemplateEndEditable -->
+	</div>
+	
+	<p></p>
+	<p></p>
+	<p></p>
 
+	<img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="footer" />	
+	
 	</div>
 </body>
 </html>
