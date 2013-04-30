@@ -37,7 +37,7 @@
 	font-weight: bold;
 }
 .navigation li a {
-	border: 2px solid #DDBB22;
+	border: 2px solid #DA9100;
 	background-color: #000000;
 	padding-top: 10px;
 	padding-right: 30px;
@@ -69,7 +69,7 @@
 	padding-bottom: 10px;
 	padding-left: 30px;
 	margin-right: 20px;
-	color: #000000;
+	color: #AA7700;
 	text-decoration: none;
 	margin-left: 20px;
 }
