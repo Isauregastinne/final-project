@@ -11,19 +11,20 @@
 </head>
 
 <body>
-	<table width="950">
-		<tr>
-			<th scope="col"><img src="../images/homepage-header-girls-sawing.jpg" width="950" height="250" alt="homepage-header-girls-sawing" /></th>
-		</tr>
-		<tr>
-			<td><!-- TemplateBeginEditable name="EditRegion5" -->EditRegion5<!-- TemplateEndEditable --></td>
-		</tr>
-		<tr>
-			<td><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
-		</tr>
-		<tr>
-			<td><img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="homepage-footer-chanel-stores" /></td>
-		</tr>
-	</table>
+	<div class="wrapper">
+	<img src="../images/homepage-header-girls-sawing.jpg" width="950" height="250" alt="header" />
+	<h1 class="websitetitle"> Gabrielle Coco Chanel Story </h1>
+	<h2 class="websitetitle"> From the scratch to success </h2>
+	<ul class="navigation">
+				<li><a href="../childhood.html">Childhood</a></li>
+				<li><a href="../early-life.html">Early Life</a></li>
+				<li><a href="../powerful-supporters.html">Success</a></li>
+				<li><a href="../chanel-ideas.html">Ideas</a></li>
+				<li><a href="../a-few-samples.html">A Few Famous Samples</a></li>
+				<p>&nbsp;</p>
+	</ul>
+	<img src="../images/homepage-footer-chanel-store.jpg" width="950" height="250" alt="footer" />	
+
+	</div>
 </body>
 </html>
